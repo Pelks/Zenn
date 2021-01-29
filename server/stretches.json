@@ -1,0 +1,81 @@
+[
+  {
+  "id":"1",
+  "name":"Tricep Stretch",
+  "category":"arms",
+  "gif":"https://i.pinimg.com/originals/22/fc/c4/22fcc4385d8dba930969dd69b2c80b16.gif",
+  "instructions":"1.Raise your arm and bend it so that your hand reaches toward the opposite side. 2. Use your other hand and pull the elbow toward your head. 3. Hold for 10 to 30 seconds. 4. Repeat on the other side"
+  },
+  {
+  "id":"2",
+  "name":"Overhead Reach",
+  "category":"arms",
+  "gif":"https://i.pinimg.com/originals/7a/63/f7/7a63f7ac0b2ccb35e26a3034e0fb65f8.gif",
+  "instructions":"1. Extend each arm overhead. 2.Reach to the opposite side. 3.Hold for 10 to 30 seconds. 4. Repeat on the other side."
+  },
+  {
+  "id":"3",
+  "name":"Upper Body and Arms Stretch",
+  "category":"arms",
+  "gif":"https://i.pinimg.com/originals/77/8b/37/778b37f025d9266b6d7cd78a9b21a99e.gif",
+  "instructions":"1.Clasp hands together above the head with palms facing outward. 2.Push your arms up, stretching upward. 3.Hold the pose for 10 to 30 seconds."
+  },
+  {
+  "id":"4",
+  "name":"Shoulder, or pectoralis stretch",
+  "category":"torso",
+  "gif":"https://i.pinimg.com/originals/56/f7/97/56f797b22e207ecc7e852e5cf1b762d1.gif",
+  "instructions":"1.Clasp hands behind your back. 2.Push the chest outward, and raise the chin. 3.Hold the pose for 10 to 30 seconds."
+  },
+  {
+  "id":"5",
+  "name":"Forward stretch",
+  "category":"torso",
+  "gif":"https://i.pinimg.com/originals/12/69/aa/1269aab13f2646422bacdfb6efb4e929.gif",
+  "instructions":"1.Clasp your hands in front of you and lower your head in line with your arms. 2.Press forward and hold for 10 to 30 seconds."
+  },
+  {
+  "id":"6",
+  "name":"Torso stretch, or trunk rotation",
+  "category":"torso",
+  "gif":"https://i.pinimg.com/originals/c7/bc/e1/c7bce1ddf1e7e2529ba1c49407a0af8a.gif",
+  "instructions":"1.Keep your feet firmly on the ground, facing forward. 2.Twist your upper body in the direction of the arm that’s resting on the back of your chair. 3.Hold pose for 10 to 30 seconds. 4.Repeat on other side. Tip: Exhale as you lean into the stretch for a greater range of motion."
+  },
+  {
+  "id":"7",
+  "name":"Hip and knee flexion stretch",
+  "category":"lower",
+  "gif":"https://i.pinimg.com/originals/ac/59/9a/ac599a6beb74800f9eb47d6d954e4326.gif",
+  "instructions":"1.Hug one knee at a time, pulling it toward your chest. 2.Hold the pose for 10 to 30 seconds. 3.Alternate."
+  },
+  {
+  "id":"8",
+  "name":"Hamstrings stretch",
+  "category":"lower",
+  "gif":"https://i.pinimg.com/originals/35/9b/62/359b6277405427bd93aac2b5469e8682.gif",
+  "instructions":"1.Remaining seated, extend one leg outward. 2.Reach toward your toes. 3.Hold for 10 to 30 seconds. 4.Repeat on the other side. Be sure to do this one leg at a time, as doing this exercise with both legs out can cause back issues."
+  },
+  {
+  "id":"9",
+  "name":"Shoulder shrug",
+  "category":"shoulders/neck",
+  "gif":"https://i.pinimg.com/originals/c9/a5/99/c9a5995b413cf9fb8cc398da435d034c.gif",
+  "instructions":"1.Raise both shoulders at once up toward the ears. 2.Drop them and repeat 10 times each direction."
+  },
+  {
+  "id":"10",
+  "name":"Neck stretches",
+  "category":"shoulders/neck",
+  "gif":"https://i.pinimg.com/originals/d3/4b/0a/d34b0a66834244dccc382842ba49210c.gif",
+  "instructions":"1.Relax and lean your head forward. 2.Slowly roll toward one side and hold for 10 seconds. 3.Repeat on other side. 4.Relax again and lift your chin back to starting position. 5.Do this three times for each direction."
+  },
+  {
+  "id":"11",
+  "name":"Upper trap stretch",
+  "category":"shoulders/neck",
+  "gif":"https://i.pinimg.com/originals/33/03/33/330333d14f7e820b938272c30b6296d9.gif",
+  "instructions":"1.Gently pull your head toward each shoulder until a light stretch is felt. 2.Hold the pose for 10 to 15 seconds. 3.Alternate once on each side."
+  }
+
+
+]
